@@ -57,3 +57,15 @@ print(f"data_list1- DELETE.del : {data_list1}")
 print("-"*10, "INDEX - Item")
 data5 = [1, 1, 6, 2, 3]
 print (f" data5 : 2 = {data5.index(2)}")
+
+print("-"*10, "Count -Item")
+print(f"jumlah item(i) di data5 = {data5.count(1)}")
+
+print("-"*10, "max-min -Item")
+print(f"max data5 = {max(data5)} min = {min(data5)}")
+
+print("-"*10, "Strating -Item")
+data5.sort()
+print(f"sort= {data5.sort()}")
+data5.reverse
+print(f"reverse= {data5.reverse()}")

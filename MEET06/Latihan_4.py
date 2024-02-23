@@ -1,5 +1,5 @@
 from datetime import date as dt
-
+ 
 print( f"<< \t\t UMUR \t\t >>")
 print( "-"*25 )
 print( "Masukkan tanggal, bulan, tahun (lahir)" )

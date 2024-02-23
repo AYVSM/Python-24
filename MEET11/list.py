@@ -3,7 +3,7 @@
 # 2. karakter / string
 # 3. bool
 list_num = [1, 2, 3, 4, 10 ]
-print( f"Data List anga : {list_num}")
+print( f"Data List angka : {list_num}")
 list_str = [ "q", "w", "e", "r", "t", "y"]
 print( f"Data List str : {list_str}")
 list_bool = [ True, False, False, True]
