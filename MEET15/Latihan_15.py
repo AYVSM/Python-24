@@ -2,8 +2,8 @@
 print("\n<< Prima dan Komposit >>")
 print("-"*15)
 
-min = int(input("Masukkan angka minimum: "))
-max = int(input("Masukkan angka maksimum: "))
+min = int(input("minimum: "))
+max = int(input("maksimum: "))
 
 prime = []
 composite = {}
