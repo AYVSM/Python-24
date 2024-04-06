@@ -21,8 +21,8 @@ print("-"*15)
 data = [ 1, 3, 2, 5]
 for i in data:
     print( f"for i in data : {i}")
-
-Print( "-"*15)
+    
+print( "-"*15)
 data_hewan = [ "ayam","kelinci","kucing"]
 for i in data_hewan:
     print( f"Saya memiliki hewan peliharaan {data_hewan}")
